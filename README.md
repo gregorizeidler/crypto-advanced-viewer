@@ -54,28 +54,33 @@ See all 38 analysis tools in action!
 ### 🏠 **Main Dashboard & Overview**
 
 <p align="center">
-  <img src="screenshots/01-dashboard-overview.png" alt="Dashboard Overview" width="100%"/>
-  <i>Main dashboard with 100+ cryptocurrencies and key features overview</i>
+  <img src="screenshots/01-dashboard-overview.png" alt="Dashboard Overview" width="100%" loading="eager"/>
+  <br/>
+  <br/><i>Main dashboard with 100+ cryptocurrencies and key features overview</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/02-dashboard-live-market-feed.png" alt="Live Market Feed" width="100%"/>
-  <i>Live market feed with real-time trades and price updates</i>
+  <img src="screenshots/02-dashboard-live-market-feed.png" alt="Live Market Feed" width="100%" loading="eager"/>
+  <br/>
+  <br/><i>Live market feed with real-time trades and price updates</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/03-dashboard-performance-by-category.png" alt="Performance by Category" width="100%"/>
-  <i>Performance heatmap showing crypto categories performance</i>
+  <img src="screenshots/03-dashboard-performance-by-category.png" alt="Performance by Category" width="100%" loading="eager"/>
+  <br/>
+  <br/><i>Performance heatmap showing crypto categories performance</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/04-dashboard-top-gainers-losers.png" alt="Top Gainers & Losers" width="100%"/>
-  <i>Top gaining and losing cryptocurrencies with market data</i>
+  <img src="screenshots/04-dashboard-top-gainers-losers.png" alt="Top Gainers & Losers" width="100%" loading="eager"/>
+  <br/>
+  <br/><i>Top gaining and losing cryptocurrencies with market data</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/05-performance-comparison-chart.png" alt="Performance Comparison" width="100%"/>
-  <i>Normalized performance comparison between multiple cryptocurrencies</i>
+  <img src="screenshots/05-performance-comparison-chart.png" alt="Performance Comparison" width="100%" loading="eager"/>
+  <br/>
+  <br/><i>Normalized performance comparison between multiple cryptocurrencies</i>
 </p>
 
 ---
@@ -83,17 +88,20 @@ See all 38 analysis tools in action!
 ### 📊 **Technical Analysis & Charts**
 
 <p align="center">
-  <img src="screenshots/06-technical-analysis-crypto-selector.png" alt="Crypto Selector" width="100%"/>
+  <img src="screenshots/06-technical-analysis-crypto-selector.png" alt="Crypto Selector" width="100%" loading="eager"/>
+  <br/>
   <i>Select from 100+ cryptocurrencies for technical analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/07-technical-analysis-btc-chart.png" alt="BTC Chart Analysis" width="100%"/>
+  <img src="screenshots/07-technical-analysis-btc-chart.png" alt="BTC Chart Analysis" width="100%" loading="eager"/>
+  <br/>
   <i>Advanced candlestick chart with volume analysis and indicators</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/08-technical-analysis-indicators.png" alt="Technical Indicators" width="100%"/>
+  <img src="screenshots/08-technical-analysis-indicators.png" alt="Technical Indicators" width="100%" loading="eager"/>
+  <br/>
   <i>RSI, MACD, Bollinger Bands and other technical indicators</i>
 </p>
 
@@ -102,22 +110,26 @@ See all 38 analysis tools in action!
 ### 🏅 **Rankings & Categories**
 
 <p align="center">
-  <img src="screenshots/09-rankings-top-losers.png" alt="Rankings" width="100%"/>
+  <img src="screenshots/09-rankings-top-losers.png" alt="Rankings" width="100%" loading="eager"/>
+  <br/>
   <i>Detailed rankings with market cap, volume and price data</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/10-categories-performance-heatmap.png" alt="Categories Heatmap" width="100%"/>
+  <img src="screenshots/10-categories-performance-heatmap.png" alt="Categories Heatmap" width="100%" loading="eager"/>
+  <br/>
   <i>Interactive heatmap of crypto categories performance</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/11-categories-detailed-analysis.png" alt="Detailed Category Analysis" width="100%"/>
+  <img src="screenshots/11-categories-detailed-analysis.png" alt="Detailed Category Analysis" width="100%" loading="eager"/>
+  <br/>
   <i>Detailed breakdown of performance by category</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/12-comparison-normalized-performance.png" alt="Normalized Comparison" width="100%"/>
+  <img src="screenshots/12-comparison-normalized-performance.png" alt="Normalized Comparison" width="100%" loading="eager"/>
+  <br/>
   <i>Normalized performance comparison tool</i>
 </p>
 
@@ -126,32 +138,38 @@ See all 38 analysis tools in action!
 ### 🎯 **Advanced Technical Analysis Suite**
 
 <p align="center">
-  <img src="screenshots/13-advanced-technical-analysis-overview.png" alt="Advanced Analysis Overview" width="100%"/>
+  <img src="screenshots/13-advanced-technical-analysis-overview.png" alt="Advanced Analysis Overview" width="100%" loading="eager"/>
+  <br/>
   <i>Advanced technical analysis overview with score and signals</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/14-advanced-technical-pivot-points.png" alt="Pivot Points" width="100%"/>
+  <img src="screenshots/14-advanced-technical-pivot-points.png" alt="Pivot Points" width="100%" loading="eager"/>
+  <br/>
   <i>Automatic pivot points calculation (R1, R2, R3, S1, S2, S3)</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/15-advanced-technical-volume-profile.png" alt="Volume Profile" width="100%"/>
+  <img src="screenshots/15-advanced-technical-volume-profile.png" alt="Volume Profile" width="100%" loading="eager"/>
+  <br/>
   <i>Volume Profile with Point of Control (POC) analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/16-advanced-technical-indicators-mfi-adx.png" alt="MFI & ADX Indicators" width="100%"/>
+  <img src="screenshots/16-advanced-technical-indicators-mfi-adx.png" alt="MFI & ADX Indicators" width="100%" loading="eager"/>
+  <br/>
   <i>Money Flow Index (MFI) and Average Directional Index (ADX)</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/17-advanced-technical-fibonacci.png" alt="Fibonacci Retracements" width="100%"/>
+  <img src="screenshots/17-advanced-technical-fibonacci.png" alt="Fibonacci Retracements" width="100%" loading="eager"/>
+  <br/>
   <i>Automatic Fibonacci retracements and Camarilla points</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/18-advanced-technical-fibonacci-extensions.png" alt="Fibonacci Extensions" width="100%"/>
+  <img src="screenshots/18-advanced-technical-fibonacci-extensions.png" alt="Fibonacci Extensions" width="100%" loading="eager"/>
+  <br/>
   <i>Fibonacci extensions and Camarilla support/resistance levels</i>
 </p>
 
@@ -160,22 +178,26 @@ See all 38 analysis tools in action!
 ### 📈 **Alternative Chart Types**
 
 <p align="center">
-  <img src="screenshots/19-advanced-technical-alternative-renko-chart.png" alt="Renko Chart" width="100%"/>
+  <img src="screenshots/19-advanced-technical-alternative-renko-chart.png" alt="Renko Chart" width="100%" loading="eager"/>
+  <br/>
   <i>Renko charts - Filters noise, showing only significant price movements</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/20-advanced-technical-alternative-kagi-chart.png" alt="Kagi Chart" width="100%"/>
+  <img src="screenshots/20-advanced-technical-alternative-kagi-chart.png" alt="Kagi Chart" width="100%" loading="eager"/>
+  <br/>
   <i>Kagi charts - Focuses on significant reversals</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/21-advanced-technical-alternative-pf-chart.png" alt="Point & Figure Chart" width="100%"/>
+  <img src="screenshots/21-advanced-technical-alternative-pf-chart.png" alt="Point & Figure Chart" width="100%" loading="eager"/>
+  <br/>
   <i>Point & Figure - Uses X (up) and O (down) to represent movements</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/22-advanced-technical-alternative-range-bars.png" alt="Range Bars" width="100%"/>
+  <img src="screenshots/22-advanced-technical-alternative-range-bars.png" alt="Range Bars" width="100%" loading="eager"/>
+  <br/>
   <i>Range Bars - Creates bars based on price range, not time</i>
 </p>
 
@@ -184,52 +206,62 @@ See all 38 analysis tools in action!
 ### 🔬 **Advanced Analysis Tools**
 
 <p align="center">
-  <img src="screenshots/23-advanced-analysis-overview.png" alt="Advanced Analysis" width="100%"/>
+  <img src="screenshots/23-advanced-analysis-overview.png" alt="Advanced Analysis" width="100%" loading="eager"/>
+  <br/>
   <i>20+ professional analyses for intelligent trading decisions</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/24-advanced-analysis-multi-indicator.png" alt="Multi-Indicator Consensus" width="100%"/>
+  <img src="screenshots/24-advanced-analysis-multi-indicator.png" alt="Multi-Indicator Consensus" width="100%" loading="eager"/>
+  <br/>
   <i>Multi-Indicator Consensus - Aggregates signals from multiple indicators</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/25-advanced-analysis-breakout-scanner.png" alt="Breakout Scanner" width="100%"/>
+  <img src="screenshots/25-advanced-analysis-breakout-scanner.png" alt="Breakout Scanner" width="100%" loading="eager"/>
+  <br/>
   <i>Breakout Scanner with Mean Reversion analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/26-advanced-analysis-trading-signals.png" alt="Trading Signals" width="100%"/>
+  <img src="screenshots/26-advanced-analysis-trading-signals.png" alt="Trading Signals" width="100%" loading="eager"/>
+  <br/>
   <i>Swing Trading Signals and Trade Planner with entry zones</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/27-advanced-analysis-entry-checklist.png" alt="Entry Checklist" width="100%"/>
+  <img src="screenshots/27-advanced-analysis-entry-checklist.png" alt="Entry Checklist" width="100%" loading="eager"/>
+  <br/>
   <i>Entry Confirmation Checklist - Validates trade setups with 6 criteria</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/28-advanced-analysis-patterns-tab.png" alt="Patterns Analysis" width="100%"/>
+  <img src="screenshots/28-advanced-analysis-patterns-tab.png" alt="Patterns Analysis" width="100%" loading="eager"/>
+  <br/>
   <i>Price Action Patterns and Divergences detection</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/29-advanced-analysis-statistics.png" alt="Statistical Dashboard" width="100%"/>
+  <img src="screenshots/29-advanced-analysis-statistics.png" alt="Statistical Dashboard" width="100%" loading="eager"/>
+  <br/>
   <i>Statistical Dashboard with seasonality analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/30-advanced-analysis-anomaly-detection.png" alt="Anomaly Detection" width="100%"/>
+  <img src="screenshots/30-advanced-analysis-anomaly-detection.png" alt="Anomaly Detection" width="100%" loading="eager"/>
+  <br/>
   <i>Anomaly Detection - Identifies unusual price/volume behavior</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/31-advanced-analysis-risk-volatility.png" alt="Risk & Volatility" width="100%"/>
+  <img src="screenshots/31-advanced-analysis-risk-volatility.png" alt="Risk & Volatility" width="100%" loading="eager"/>
+  <br/>
   <i>Volatility Analysis and Advanced Support/Resistance levels</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/32-advanced-analysis-dca-fibonacci-tools.png" alt="DCA & Fibonacci Tools" width="100%"/>
+  <img src="screenshots/32-advanced-analysis-dca-fibonacci-tools.png" alt="DCA & Fibonacci Tools" width="100%" loading="eager"/>
+  <br/>
   <i>Dollar-Cost Averaging Simulator and Fibonacci Time Zones</i>
 </p>
 
@@ -238,72 +270,86 @@ See all 38 analysis tools in action!
 ### 🏆 **Professional Trading Tools**
 
 <p align="center">
-  <img src="screenshots/33-professional-tools-ichimoku.png" alt="Ichimoku Cloud" width="100%"/>
+  <img src="screenshots/33-professional-tools-ichimoku.png" alt="Ichimoku Cloud" width="100%" loading="eager"/>
+  <br/>
   <i>Ichimoku Cloud System - Complete Japanese technical analysis with cloud signals</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/34-professional-tools-wyckoff-support-resistance.png" alt="Wyckoff & Support/Resistance" width="100%"/>
+  <img src="screenshots/34-professional-tools-wyckoff-support-resistance.png" alt="Wyckoff & Support/Resistance" width="100%" loading="eager"/>
+  <br/>
   <i>Wyckoff Method Analysis and Support & Resistance Zones detection</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/35-professional-tools-elliott-wave-candlestick.png" alt="Elliott Wave & Candlestick" width="100%"/>
+  <img src="screenshots/35-professional-tools-elliott-wave-candlestick.png" alt="Elliott Wave & Candlestick" width="100%" loading="eager"/>
+  <br/>
   <i>Elliott Wave Counter with Candlestick Pattern Library detection</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/36-professional-tools-confluence-detector.png" alt="Confluence Detector" width="100%"/>
+  <img src="screenshots/36-professional-tools-confluence-detector.png" alt="Confluence Detector" width="100%" loading="eager"/>
+  <br/>
   <i>Confluence Detector - Identifies price levels with multiple indicator convergence</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/37-professional-tools-technical-setup-finder.png" alt="Technical Setup Finder" width="100%"/>
+  <img src="screenshots/37-professional-tools-technical-setup-finder.png" alt="Technical Setup Finder" width="100%" loading="eager"/>
+  <br/>
   <i>Technical Setup Finder - Automatically detects trading setups</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/38-professional-tools-reversal-probability.png" alt="Reversal Probability" width="100%"/>
+  <img src="screenshots/38-professional-tools-reversal-probability.png" alt="Reversal Probability" width="100%" loading="eager"/>
+  <br/>
   <i>Reversal Probability Calculator - Predicts reversal likelihood</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/39-professional-tools-monte-carlo-simulation.png" alt="Monte Carlo Simulation" width="100%"/>
+  <img src="screenshots/39-professional-tools-monte-carlo-simulation.png" alt="Monte Carlo Simulation" width="100%" loading="eager"/>
+  <br/>
   <i>Monte Carlo Simulation - 1000 runs with 30-day price projections</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/40-professional-tools-calendar-drawdown.png" alt="Performance Calendar" width="100%"/>
+  <img src="screenshots/40-professional-tools-calendar-drawdown.png" alt="Performance Calendar" width="100%" loading="eager"/>
+  <br/>
   <i>Historical Performance Calendar and Drawdown Analysis by month</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/41-professional-tools-drawdown-analysis.png" alt="Drawdown Analysis" width="100%"/>
+  <img src="screenshots/41-professional-tools-drawdown-analysis.png" alt="Drawdown Analysis" width="100%" loading="eager"/>
+  <br/>
   <i>Detailed Drawdown Analysis with historical drawdown periods</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/42-professional-tools-win-rate-by-day.png" alt="Win Rate by Day" width="100%"/>
+  <img src="screenshots/42-professional-tools-win-rate-by-day.png" alt="Win Rate by Day" width="100%" loading="eager"/>
+  <br/>
   <i>Win Rate by Day of Week - Identifies best trading days</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/43-professional-tools-momentum-velocity.png" alt="Momentum & Velocity" width="100%"/>
+  <img src="screenshots/43-professional-tools-momentum-velocity.png" alt="Momentum & Velocity" width="100%" loading="eager"/>
+  <br/>
   <i>Acceleration Indicator and Volume Momentum analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/44-professional-tools-volume-momentum.png" alt="Volume Momentum" width="100%"/>
+  <img src="screenshots/44-professional-tools-volume-momentum.png" alt="Volume Momentum" width="100%" loading="eager"/>
+  <br/>
   <i>Volume Momentum and Price Velocity Gauge analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/45-professional-tools-position-sizing.png" alt="Position Sizing Calculator" width="100%"/>
+  <img src="screenshots/45-professional-tools-position-sizing.png" alt="Position Sizing Calculator" width="100%" loading="eager"/>
+  <br/>
   <i>Position Sizing Calculator - Risk management with R:R scenarios</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/46-professional-tools-risk-reward-heatmap.png" alt="Risk/Reward Heatmap" width="100%"/>
+  <img src="screenshots/46-professional-tools-risk-reward-heatmap.png" alt="Risk/Reward Heatmap" width="100%" loading="eager"/>
+  <br/>
   <i>Risk/Reward Heatmap - Visual matrix for different stop loss and target combinations</i>
 </p>
 
@@ -312,57 +358,68 @@ See all 38 analysis tools in action!
 ### 🛠️ **Advanced Tools**
 
 <p align="center">
-  <img src="screenshots/47-advanced-tools-paper-trading-portfolio.png" alt="Paper Trading Portfolio" width="100%"/>
+  <img src="screenshots/47-advanced-tools-paper-trading-portfolio.png" alt="Paper Trading Portfolio" width="100%" loading="eager"/>
+  <br/>
   <i>Paper Trading Simulator - Practice trading with $100,000 virtual capital</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/48-advanced-tools-paper-trading-buy.png" alt="Paper Trading Buy" width="100%"/>
+  <img src="screenshots/48-advanced-tools-paper-trading-buy.png" alt="Paper Trading Buy" width="100%" loading="eager"/>
+  <br/>
   <i>Execute Buy orders with real-time price updates</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/49-advanced-tools-paper-trading-sell.png" alt="Paper Trading Sell" width="100%"/>
+  <img src="screenshots/49-advanced-tools-paper-trading-sell.png" alt="Paper Trading Sell" width="100%" loading="eager"/>
+  <br/>
   <i>Execute Sell orders and manage positions</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/50-advanced-tools-paper-trading-history.png" alt="Trading History" width="100%"/>
+  <img src="screenshots/50-advanced-tools-paper-trading-history.png" alt="Trading History" width="100%" loading="eager"/>
+  <br/>
   <i>Complete trading history with Cryptocurrency Screener</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/51-advanced-tools-crypto-comparator.png" alt="Crypto Comparator" width="100%"/>
+  <img src="screenshots/51-advanced-tools-crypto-comparator.png" alt="Crypto Comparator" width="100%" loading="eager"/>
+  <br/>
   <i>Advanced Crypto Comparator - Return vs Risk (Volatility) analysis</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/52-advanced-tools-crypto-comparator-hover.png" alt="Comparator Details" width="100%"/>
+  <img src="screenshots/52-advanced-tools-crypto-comparator-hover.png" alt="Comparator Details" width="100%" loading="eager"/>
+  <br/>
   <i>Interactive hover showing detailed metrics for each cryptocurrency</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/53-advanced-tools-crypto-comparator-table.png" alt="Comparator Table" width="100%"/>
+  <img src="screenshots/53-advanced-tools-crypto-comparator-table.png" alt="Comparator Table" width="100%" loading="eager"/>
+  <br/>
   <i>Detailed comparison table with Return, Volatility, Sharpe, Beta, Max DD and RSI</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/54-advanced-tools-correlation-heatmap.png" alt="Correlation Heatmap" width="100%"/>
+  <img src="screenshots/54-advanced-tools-correlation-heatmap.png" alt="Correlation Heatmap" width="100%" loading="eager"/>
+  <br/>
   <i>Interactive Correlation Heatmap between cryptocurrencies</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/55-advanced-tools-correlation-network.png" alt="Correlation Network" width="100%"/>
+  <img src="screenshots/55-advanced-tools-correlation-network.png" alt="Correlation Network" width="100%" loading="eager"/>
+  <br/>
   <i>Correlation Network Graph showing strong connections between cryptos</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/56-advanced-tools-market-cap-treemap-layer1.png" alt="Market Cap Treemap" width="100%"/>
+  <img src="screenshots/56-advanced-tools-market-cap-treemap-layer1.png" alt="Market Cap Treemap" width="100%" loading="eager"/>
+  <br/>
   <i>Market Cap Treemap by Sector - Layer 1 Blockchains, Stablecoins, Exchange Tokens</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/57-advanced-tools-market-cap-treemap-memecoins.png" alt="Treemap Details" width="100%"/>
+  <img src="screenshots/57-advanced-tools-market-cap-treemap-memecoins.png" alt="Treemap Details" width="100%" loading="eager"/>
+  <br/>
   <i>Detailed view showing Memecoins, DeFi, Layer 2 & Scaling sectors</i>
 </p>
 
